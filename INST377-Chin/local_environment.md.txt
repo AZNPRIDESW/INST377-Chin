@@ -1,0 +1,4 @@
+OS: Windows 10
+Applications installed: MAMP
+MySQL Workbench 6.3
+PHP 5.6
